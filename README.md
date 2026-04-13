@@ -1,15 +1,3 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     LANGUAGE SWITCHER                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-[![ES](https://img.shields.io/badge/🌐_Leer_en-Español-818cf8?style=for-the-badge)](#-sobre-mí)
-[![EN](https://img.shields.io/badge/🌐_Read_in-English-475569?style=for-the-badge)](#-about-me)
-
-</div>
-
----
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     ESPAÑOL                                   -->
