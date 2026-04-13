@@ -85,18 +85,6 @@ Actualmente estoy perfeccionando **TypeScript** y construyendo proyectos que dem
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiguelAngeltxt&show_icons=true&theme=tokyonight&hide_border=true&locale=es)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAngeltxt&layout=compact&theme=tokyonight&hide_border=true&locale=es)
-
-</div>
-
----
-
 ## 📫 Contacto
 
 <div align="center">
@@ -178,18 +166,6 @@ I'm currently sharpening my **TypeScript** skills and building projects that dem
 | Case and deadline management        | Task organization, working under pressure, meeting deadlines      |
 | Contract detail & precision         | Meticulous code review, bug detection and edge case handling      |
 | Oral argument & negotiation         | Project presentations, technical proposals and client-facing work |
-
----
-
-## 📊 GitHub stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiguelAngeltxt&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAngeltxt&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
