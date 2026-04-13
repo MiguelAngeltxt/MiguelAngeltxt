@@ -25,7 +25,7 @@ _Abogado egresado que descubrió su verdadera pasión en el desarrollo de softwa
 _Construyendo interfaces que se ven bien y backends que funcionan mejor._
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel_Ángel_Falcón-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/miguel-ángel-falcón-valenzuela-64bbb520a)
-[![Portfolio](https://img.shields.io/badge/GitHub-Proyectos-181717?style=flat-square&logo=github)](https://github.com/MiguelFalcon?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/GitHub-Proyectos-181717?style=flat-square&logo=github)](https://github.com/MiguelAngeltxt?tab=repositories)
 
 </div>
 
@@ -69,18 +69,6 @@ Actualmente estoy perfeccionando **TypeScript** y construyendo proyectos que dem
 
 ---
 
-## 📂 Proyectos destacados
-
-### 📋 Lista de Publicaciones
-
-Aplicación React que consume la API pública JSONPlaceholder. Incluye buscador en tiempo real, paginación y diseño dark mode.
-
-`React` `Vite` `REST API` `useState` `useEffect`
-
-🔗 [Ver repositorio](https://github.com/MiguelFalcon/lista-publicaciones)
-
----
-
 > 🚧 _Más proyectos en camino. Actualmente construyendo aplicaciones fullstack con el stack MERN._
 
 ---
@@ -101,9 +89,9 @@ Aplicación React que consume la API pública JSONPlaceholder. Incluye buscador 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiguelFalcon&show_icons=true&theme=tokyonight&hide_border=true&locale=es)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiguelAngeltxt&show_icons=true&theme=tokyonight&hide_border=true&locale=es)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelFalcon&layout=compact&theme=tokyonight&hide_border=true&locale=es)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAngeltxt&layout=compact&theme=tokyonight&hide_border=true&locale=es)
 
 </div>
 
@@ -137,7 +125,7 @@ _Law graduate who found his true passion in software development._
 _Building interfaces that look great and backends that work even better._
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel_Ángel_Falcón-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/miguel-ángel-falcón-valenzuela-64bbb520a)
-[![Portfolio](https://img.shields.io/badge/GitHub-Projects-181717?style=flat-square&logo=github)](https://github.com/MiguelFalcon?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/GitHub-Projects-181717?style=flat-square&logo=github)](https://github.com/MiguelAngeltxt?tab=repositories)
 
 </div>
 
@@ -181,22 +169,6 @@ I'm currently sharpening my **TypeScript** skills and building projects that dem
 
 ---
 
-## 📂 Featured projects
-
-### 📋 Publications List
-
-React application consuming the JSONPlaceholder public API. Features real-time search, pagination and dark mode design.
-
-`React` `Vite` `REST API` `useState` `useEffect`
-
-🔗 [View repository](https://github.com/MiguelFalcon/lista-publicaciones)
-
----
-
-> 🚧 _More projects coming soon. Currently building fullstack applications with the MERN stack._
-
----
-
 ## 🎯 Transferable skills from Law to Development
 
 | Legal skill                         | Application in development                                        |
@@ -213,9 +185,9 @@ React application consuming the JSONPlaceholder public API. Features real-time s
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiguelFalcon&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiguelAngeltxt&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelFalcon&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAngeltxt&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
