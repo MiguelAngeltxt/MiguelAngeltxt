@@ -61,6 +61,23 @@ Actualmente estoy perfeccionando **TypeScript** y construyendo proyectos que dem
 
 ---
 
+## 🤖 Automatización & IA aplicada
+
+Actualmente explorando **n8n** para construir workflows de automatización inteligente.  
+Como parte de mi búsqueda laboral, desarrollé un pipeline que:
+
+- Extrae vacantes en tiempo real desde **LinkedIn** (vía Apify) y **GetOnBrd** (API REST)
+- Limpia y normaliza los datos de múltiples fuentes
+- Analiza cada vacante con **Claude AI (Haiku)** según mi perfil técnico
+- Filtra automáticamente las oportunidades más relevantes
+- Envía las recomendaciones directamente a **Telegram**
+
+> _Porque si vas a buscar trabajo como desarrollador, al menos que el proceso sea automatizado._
+
+![Workflow Preview](./workflow-preview.png)
+
+---
+
 ## 🎯 Habilidades transferibles del Derecho al desarrollo
 
 | Habilidad legal                     | Aplicación en desarrollo                                                 |
@@ -145,6 +162,27 @@ I'm currently sharpening my **TypeScript** skills and building projects that dem
 
 ---
 
+> 🚧 _More projects on the way. Currently building fullstack applications with the MERN stack._
+
+---
+
+## 🤖 Automation & Applied AI
+
+Currently exploring **n8n** to build intelligent automation workflows.  
+As part of my own job search, I built a pipeline that:
+
+- Scrapes real-time job listings from **LinkedIn** (via Apify) and **GetOnBrd** (REST API)
+- Cleans and normalizes data from multiple sources
+- Analyzes each listing with **Claude AI (Haiku)** against my technical profile
+- Automatically filters the most relevant opportunities
+- Delivers recommendations directly to **Telegram**
+
+> _Because if you're going to job hunt as a developer, the process might as well be automated._
+
+![Workflow Preview](./workflow-preview.png)
+
+---
+
 ## 🎯 Transferable skills from Law to Development
 
 | Legal skill                         | Application in development                                        |
@@ -163,6 +201,6 @@ I'm currently sharpening my **TypeScript** skills and building projects that dem
 
 Got an interesting project or opportunity to share?
 
-[![LinkedIn](https://img.shields.io/badge/Message_me_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-ángel-falcón-valenzuela-64bbb520a)
+[![LinkedIn](https://img.shields.io/badge/Message_me_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-angel-falcon-valenzuela-developer/)
 
 </div>
