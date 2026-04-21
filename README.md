@@ -1,4 +1,3 @@
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     ESPAÑOL                                   -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -74,7 +73,7 @@ Como parte de mi búsqueda laboral, desarrollé un pipeline que:
 
 > _Porque si vas a buscar trabajo como desarrollador, al menos que el proceso sea automatizado._
 
-![Workflow Preview](./workflow-preview.png)
+![Workflow Preview](/image.png)
 
 ---
 
@@ -96,7 +95,7 @@ Como parte de mi búsqueda laboral, desarrollé un pipeline que:
 
 ¿Tenés un proyecto interesante o una oportunidad para compartir?
 
-[![LinkedIn](https://img.shields.io/badge/Escribime_en_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-ángel-falcón-valenzuela-64bbb520a)
+[![LinkedIn](https://www.linkedin.com/in/miguel-angel-falcon-valenzuela-developer/)
 
 </div>
 
@@ -179,7 +178,7 @@ As part of my own job search, I built a pipeline that:
 
 > _Because if you're going to job hunt as a developer, the process might as well be automated._
 
-![Workflow Preview](./workflow-preview.png)
+![Workflow Preview](/image.png)
 
 ---
 
