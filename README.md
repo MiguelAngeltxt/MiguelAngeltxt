@@ -95,7 +95,7 @@ Como parte de mi búsqueda laboral, desarrollé un pipeline que:
 
 ¿Tenés un proyecto interesante o una oportunidad para compartir?
 
-[![LinkedIn](https://www.linkedin.com/in/miguel-angel-falcon-valenzuela-developer/)
+[![LinkedIn](https://img.shields.io/badge/Envíame_un_mensaje_por_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-angel-falcon-valenzuela-developer/)
 
 </div>
 
